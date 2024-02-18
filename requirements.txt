@@ -1,0 +1,3 @@
+cryptography==38.0.4
+cryptography.egg==info
+setuptools==66.1.1
